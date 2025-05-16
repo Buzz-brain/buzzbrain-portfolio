@@ -44,7 +44,7 @@ const AboutSection = () => {
             className="text-3xl md:text-4xl font-bold mb-4"
             variants={itemVariants}
           >
-            Get to Know <span className="gradient-text">BuzzBrain</span>
+            Get to Know <span className="gradient-text">Buzz brain</span>
           </motion.h2>
           <motion.p 
             className="text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto"
@@ -62,10 +62,12 @@ const AboutSection = () => {
             className="relative"
           >
             <div className="relative aspect-square max-w-md mx-auto md:mx-0 overflow-hidden rounded-2xl shadow-xl">
-              {/* Replace with actual image */}
+              {/* Replace with actual image 
               <div className="w-full h-full bg-gradient-to-br from-primary-400 to-secondary-600 flex items-center justify-center">
                 <span className="text-white text-4xl font-bold">BuzzBrain</span>
-              </div>
+              </div>*/}
+              <img src="https://res.cloudinary.com/df2q6gyuq/image/upload/v1747315700/6_jxkoqz.jpg" alt="my_photo" />
+
               
               {/* Decorative elements */}
               <div className="absolute -top-4 -left-4 w-24 h-24 bg-accent-500 opacity-70 rounded-full mix-blend-multiply filter blur-xl animate-pulse-slow"></div>

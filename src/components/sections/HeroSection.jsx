@@ -45,25 +45,22 @@ const HeroSection = () => {
               <span className="block">Brain</span>
             </h1>
           </div>
-
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-medium mb-3 text-neutral-700 dark:text-neutral-300">
-            <span className="block mb-2">Full-Stack Developer | AI Engineer | UI/UX Designer</span>
-            <span className="text-neutral-600 dark:text-neutral-400 font-normal text-base sm:text-lg md:text-xl block mb-3">
-              Building powerful web experiences and intelligent systems
-            </span>
-          </h2>
           
           <div className="text-lg sm:text-xl md:text-2xl font-medium text-neutral-700 dark:text-neutral-300">
             <span>I am a </span>
             <TypeAnimation
               sequence={[
-                'Web Developer',
-                1000,
-                'AI Engineer',
+                'FullStack Web Developer',
                 1000,
                 'UI Designer',
                 1000,
                 'Blockchain Enthusiast',
+                1000,
+                'Frontend Developer',
+                1000,
+                'AI Engineer',
+                1000,
+                'Backend Developer',
                 1000,
               ]}
               wrapper="span"
@@ -72,6 +69,14 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </div>
+
+                    <h2 className="text-xl sm:text-2xl md:text-3xl font-medium mb-3 text-neutral-700 dark:text-neutral-300">
+            {/* <span className="block mb-2">Full-Stack Developer | AI Engineer | UI/UX Designer</span> */}
+            {/* <span className="text-neutral-600 dark:text-neutral-400 font-normal text-base sm:text-lg md:text-xl block mb-3"> */}
+            <span className="text-neutral-600 dark:text-neutral-400 font-normal text-base sm:text-lg md:text-xl block mb-3">
+              Building powerful web experiences and intelligent systems
+            </span>
+          </h2>
 
           <div className="flex gap-4 mt-8 justify-center">
             <ScrollLink
