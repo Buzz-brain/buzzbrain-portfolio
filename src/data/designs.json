@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Mobile Banking App",
+    "description": "Clean and intuitive UI design for a mobile banking application focusing on easy navigation and accessibility.",
+    "image": "https://images.pexels.com/photos/218717/pexels-photo-218717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tools": ["Figma", "Adobe Photoshop"],
+    "link": "https://figma.com/file/example1",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "E-Learning Platform",
+    "description": "Comprehensive design system for an educational platform with course navigation, video player, and progress tracking.",
+    "image": "https://images.pexels.com/photos/5428263/pexels-photo-5428263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tools": ["Figma", "Adobe Illustrator"],
+    "link": "https://figma.com/file/example2",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Fitness Tracking App",
+    "description": "User-centered design for a fitness application with workout planners, progress charts, and social features.",
+    "image": "https://images.pexels.com/photos/6787207/pexels-photo-6787207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tools": ["Adobe XD", "Adobe Photoshop"],
+    "link": "https://xd.adobe.com/view/example3",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Food Delivery Service",
+    "description": "Mobile app design for a food delivery service with restaurant browsing, ordering, and delivery tracking.",
+    "image": "https://images.pexels.com/photos/4350099/pexels-photo-4350099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tools": ["Figma", "Sketch"],
+    "link": "https://figma.com/file/example4",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Travel Booking Platform",
+    "description": "Website design for a travel booking platform with search functionality, booking flow, and user accounts.",
+    "image": "https://images.pexels.com/photos/3278215/pexels-photo-3278215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tools": ["Figma", "Adobe Photoshop"],
+    "link": "https://figma.com/file/example5",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Smart Home Control App",
+    "description": "Interface design for controlling smart home devices with intuitive controls and automation settings.",
+    "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tools": ["Adobe XD", "Adobe Illustrator"],
+    "link": "https://xd.adobe.com/view/example6",
+    "featured": false
+  }
+]

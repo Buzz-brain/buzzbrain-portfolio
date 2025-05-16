@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Facial Recognition System",
+    "description": "Deep learning model for real-time facial recognition with high accuracy, capable of identifying individuals in various lighting conditions.",
+    "image": "https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Python", "TensorFlow", "OpenCV", "CNN"],
+    "accuracy": "98.5%",
+    "demo": "https://facial-recognition-demo.com",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Sentiment Analysis Engine",
+    "description": "Natural language processing model that analyzes customer reviews and social media posts to determine sentiment and emotional tone.",
+    "image": "https://images.pexels.com/photos/7516363/pexels-photo-7516363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Python", "NLTK", "PyTorch", "Transformers"],
+    "accuracy": "92.7%",
+    "demo": "https://sentiment-analysis-demo.com",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Predictive Maintenance System",
+    "description": "Machine learning model that predicts equipment failures before they occur, using sensor data and maintenance history.",
+    "image": "https://images.pexels.com/photos/2244746/pexels-photo-2244746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Python", "Scikit-learn", "XGBoost", "Time Series Analysis"],
+    "accuracy": "94.2%",
+    "demo": "https://predictive-maintenance-demo.com",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Recommendation Engine",
+    "description": "Collaborative filtering algorithm that provides personalized content recommendations based on user behavior and preferences.",
+    "image": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Python", "Surprise", "Matrix Factorization", "Deep Learning"],
+    "accuracy": "89.5%",
+    "demo": "https://recommendation-engine-demo.com",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Autonomous Drone Navigation",
+    "description": "Computer vision and reinforcement learning system that enables drones to navigate environments and avoid obstacles.",
+    "image": "https://images.pexels.com/photos/2050718/pexels-photo-2050718.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Python", "TensorFlow", "OpenCV", "Reinforcement Learning"],
+    "accuracy": "86.3%",
+    "demo": "https://drone-navigation-demo.com",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Medical Diagnosis Assistant",
+    "description": "AI system that helps identify potential diseases from medical images like X-rays and MRIs with high accuracy.",
+    "image": "https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Python", "TensorFlow", "Image Processing", "Transfer Learning"],
+    "accuracy": "97.1%",
+    "demo": "https://medical-diagnosis-demo.com",
+    "featured": false
+  }
+]

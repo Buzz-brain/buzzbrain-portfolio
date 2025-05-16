@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-featured e-commerce platform with product catalog, user authentication, shopping cart, and payment processing.",
+    "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["React", "Node.js", "MongoDB", "Express", "Stripe"],
+    "github": "https://github.com/buzzbrain-dev/ecommerce-platform",
+    "liveDemo": "https://ecommerce-platform-demo.com",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Decentralized Voting System",
+    "description": "Blockchain-based voting system ensuring transparency and security with smart contract integration.",
+    "image": "https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Solidity", "React", "Web3.js", "Truffle", "Ethereum"],
+    "github": "https://github.com/buzzbrain-dev/defi-voting",
+    "liveDemo": "https://defi-voting-demo.com",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "AI-Powered Image Recognition",
+    "description": "Machine learning model that identifies objects in images with high accuracy using computer vision algorithms.",
+    "image": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Python", "TensorFlow", "OpenCV", "Flask", "React"],
+    "github": "https://github.com/buzzbrain-dev/ai-image-recognition",
+    "liveDemo": "https://ai-image-demo.com",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Restaurant Management System",
+    "description": "Comprehensive system for restaurants including menu management, table reservations, and order processing.",
+    "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["React", "Node.js", "MySQL", "Express", "Socket.io"],
+    "github": "https://github.com/buzzbrain-dev/restaurant-system",
+    "liveDemo": "https://restaurant-system-demo.com",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Social Media Dashboard",
+    "description": "Unified dashboard to manage multiple social media accounts with analytics and post scheduling.",
+    "image": "https://images.pexels.com/photos/3184450/pexels-photo-3184450.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Vue.js", "Node.js", "MongoDB", "Express", "Chart.js"],
+    "github": "https://github.com/buzzbrain-dev/social-dashboard",
+    "liveDemo": "https://social-dashboard-demo.com",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Real Estate Marketplace",
+    "description": "Platform connecting property buyers, sellers, and agents with integrated map view and property listings.",
+    "image": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["React", "Node.js", "PostgreSQL", "Express", "Google Maps API"],
+    "github": "https://github.com/buzzbrain-dev/realestate-market",
+    "liveDemo": "https://realestate-market-demo.com",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Task Management Application",
+    "description": "Collaborative task management tool with real-time updates, notifications, and progress tracking.",
+    "image": "https://images.pexels.com/photos/3243/pen-calendar-to-do-checklist.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["React", "Firebase", "Material UI", "Redux", "PWA"],
+    "github": "https://github.com/buzzbrain-dev/task-manager",
+    "liveDemo": "https://task-manager-demo.com",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Crypto Portfolio Tracker",
+    "description": "Track cryptocurrency investments with real-time price updates, portfolio performance, and trading history.",
+    "image": "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "technologies": ["Next.js", "Node.js", "MongoDB", "CoinGecko API", "Chart.js"],
+    "github": "https://github.com/buzzbrain-dev/crypto-tracker",
+    "liveDemo": "https://crypto-tracker-demo.com",
+    "featured": false
+  }
+]

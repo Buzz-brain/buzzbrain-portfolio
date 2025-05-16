@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "position": "CTO, TechWave Solutions",
+    "avatar": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "testimonial": "Working with Nduoma was an absolute pleasure. His technical expertise and attention to detail transformed our e-commerce platform. He delivered beyond our expectations and was always available to address our concerns."
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "position": "Product Manager, InnovateCorp",
+    "avatar": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "testimonial": "Nduoma's ability to understand our complex requirements and translate them into an intuitive user experience was impressive. He's not just a developer but a problem solver who thinks from the user's perspective."
+  },
+  {
+    "id": 3,
+    "name": "Michael Roberts",
+    "position": "Founder, BlockChain Ventures",
+    "avatar": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "testimonial": "The decentralized application that Nduoma built for us revolutionized how we handle voting in our organization. His expertise in blockchain technology and smart contracts was evident throughout the project."
+  },
+  {
+    "id": 4,
+    "name": "Jessica Chen",
+    "position": "UI/UX Director, DesignHub",
+    "avatar": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "testimonial": "Nduoma's design sensibilities combined with his technical knowledge makes him a rare find. The design system he created for our platform has significantly improved our development workflow and user satisfaction."
+  },
+  {
+    "id": 5,
+    "name": "David Miller",
+    "position": "CEO, FoodTech Innovations",
+    "avatar": "https://images.pexels.com/photos/5792641/pexels-photo-5792641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "testimonial": "Our food delivery platform needed a complete overhaul, and Nduoma delivered spectacularly. The new system is faster, more reliable, and our customers love the improved user experience. I highly recommend his services."
+  }
+]

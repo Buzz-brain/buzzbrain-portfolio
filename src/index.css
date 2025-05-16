@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Manrope:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --scroll-color: rgb(59, 130, 246, 0.5);
+  --scroll-hover-color: rgb(59, 130, 246, 0.8);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply font-sans text-neutral-800 dark:text-neutral-200 bg-white dark:bg-neutral-900 transition-colors duration-300;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-neutral-200 dark:bg-neutral-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-primary-400 dark:bg-primary-600 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary-500 dark:bg-primary-500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-display leading-tight;
+}
+
+h1 {
+  @apply text-4xl md:text-5xl lg:text-6xl font-bold;
+}
+
+h2 {
+  @apply text-3xl md:text-4xl font-bold;
+}
+
+h3 {
+  @apply text-2xl md:text-3xl font-semibold;
+}
+
+h4 {
+  @apply text-xl md:text-2xl font-semibold;
+}
+
+p {
+  @apply leading-relaxed;
+}
+
+.section-padding {
+  @apply py-16 md:py-24;
+}
+
+.container-default {
+  @apply container mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.btn {
+  @apply px-6 py-3 rounded-lg font-medium transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2;
+}
+
+.btn-primary {
+  @apply bg-primary-500 hover:bg-primary-600 text-white focus:ring-primary-500;
+}
+
+.btn-secondary {
+  @apply bg-secondary-500 hover:bg-secondary-600 text-white focus:ring-secondary-500;
+}
+
+.btn-accent {
+  @apply bg-accent-500 hover:bg-accent-600 text-white focus:ring-accent-500;
+}
+
+.btn-outline {
+  @apply border-2 border-primary-500 hover:bg-primary-500 hover:text-white text-primary-600 dark:text-primary-400 focus:ring-primary-500;
+}
+
+.card {
+  @apply bg-white dark:bg-neutral-800 rounded-xl shadow-md hover:shadow-lg transition-all duration-300;
+}
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-500 to-secondary-500;
+}
